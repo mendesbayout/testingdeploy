@@ -1,0 +1,116 @@
+{
+    "short_name": "PWA react app",
+    "name": "Topi.io wep app",
+    "icons": [
+        {
+            "src": "/images/favicon.ico",
+            "sizes": "64x64 32x32 24x24 16x16",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "/images/5d114180-138f-ce33-e6c7-ac6b72901f14.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/b18fb3ba-7d5f-ae80-e6f1-ae622184fd7f.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/64ae6196-76b9-8ede-7009-aefc55a79dfe.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/885e1133-b3d3-8c67-9f8e-b1b43062021e.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/012b601a-3447-529b-97db-bf1fe0a8cc66.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/cee67645-a321-49f5-950e-c153730463f2.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/30a5617b-3d38-e2cb-3784-23b0d91f480f.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/4a0166f9-51d5-e3c9-261c-f14571c0557d.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/19e0cb61-44fc-e5a7-e3c1-a3ca40d0f763.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/d321efb7-2aef-be63-3794-e9c5c4f616f3.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/db6a395c-d0b3-a262-fc19-62c81d1f38da.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/75fafae1-3688-3c2f-b17f-dd91198be4e8.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/6d9a7478-126f-7063-3ddb-8032fc21b26f.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/b9904b11-2765-f3bf-411e-db5b260f5a89.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/0fe3128b-22cc-2fed-8203-49d0279a84e2.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/228ffaa2-51ee-4498-eaaa-483fc2aafb60.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/efb63b23-e81e-f570-047c-192c95a00df6.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/95491783-18bc-082f-3284-5b0d262959a0.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/8f93d10c-a109-54a3-ff55-b03aa4311e95.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "https://mendesbayout.github.io/",
+    "display": "fullscreen",
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "url": "https://mendesbayout.github.io/",
+    "lang": "English",
+    "screenshots": [],
+    "description": "Topi.io chellenge.",
+    "scope": "Test",
+    "orientation": "any"
+}
